@@ -1,0 +1,21 @@
+
+Definition: Python in build syntax for creating list from another list of string. 
+Benefits: It is considerably faster than processing through for loop
+
+Syntax: 
+
+[expression for element in iterable if condition]
+
+Lets take an example of looping a string 
+
+sentence = "the rocket came back from mars"
+[char for char in sentence]
+
+
+Deciding When Not to Use a List Comprehension
+
+They might make your code run more slowly or use more memory. 
+If your code is less performant or harder to understand, then it’s probably better to choose an alternative.
+
+Example: 
+

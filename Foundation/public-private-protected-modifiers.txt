@@ -1,0 +1,4 @@
+Python doesn't have any mechanism that effectively restricts access to any instance variable or method. 
+Python prescribes a convention of prefixing the name of the variable/method with a single or double underscore to emulate the behavior of protected and private access specifiers.
+
+

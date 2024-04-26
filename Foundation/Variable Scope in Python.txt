@@ -1,0 +1,6 @@
+
+1. Local Variable
+
+
+
+2. Global Variable

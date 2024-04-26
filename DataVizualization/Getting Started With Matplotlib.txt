@@ -1,0 +1,14 @@
+ library that you’ll need to install first.
+
+ You can either use your IDE’s in-built tools or type the following in the Terminal:
+
+ pip install matplotlib
+
+ or 
+
+ pip3 install matplotlib
+
+ However, if you hadn’t already done so, installing Matplotlib will also install NumPy.
+
+ URL: https://matplotlib.org/stable/gallery/index.html
+ 
