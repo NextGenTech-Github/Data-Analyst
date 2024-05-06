@@ -1,0 +1,125 @@
+{
+    "info": {
+      "id": "lRQ03MnbWBSTKHX",
+      "status": "ACTIVE",
+      "candidate": {
+        "id": "X73cKg1NAFUJTec",
+        "firstName": "ABC",
+        "lastName": "DEF",
+        "phones": [
+          {
+            "type": "PERSONAL",
+            "phoneNumber": "000-000-00"
+          },
+          {
+            "type": "WORK",
+            "phoneNumber": "000-000-00
+          },
+        ],
+        "emails": [
+          {
+            "type": "PERSONAL",
+            "email": "abc@def.com"
+          }
+        ],
+        "links": [
+          "www.blog.com",
+          "www.linkedin.com/abc
+        ],
+        "location": "Delhi, India"
+      },
+      "origin": "EXTERNAL",
+      "appliedAt": "1970-01-01T00:00:00Z",
+      "updatedAt": "1970-01-01T00:00:00Z",
+      "jobId": "Ty60CurNfqp5I9r",
+      "owner": {
+        "id": "tDWso22iFg8iN56",
+        "email": "hr@org.com",
+        "employeeId": "re8AKBnyujPZ4Yb"
+      },
+      "creditedTo": {
+        "id": "UxXF6C3PwZ4gD4c",
+        "email": "recruiter@org.com",
+        "employeeId": "ChdsLhmoelplUGN"
+      }
+    },
+    "currentStage": {
+      "id": "JLUnI5TFKWbhQ1k",
+      "text": "Technical Test"
+    },
+    "interviews": [
+      {
+        "id": "uKt2wVW0iSsmw8p",
+        "subject": "Tehnical Screen",
+        "createdAt": "1970-01-01T00:00:00Z",
+        "scheduledStart": "1970-01-01T00:00:00Z",
+        "scheduledEnd": "1970-01-01T00:00:00Z",
+        "stage": {
+          "id": "T63bQ43io2vlgSQ",
+          "text": "Interview"
+        },
+        "interviewers": [
+          {
+            "id": "PrJjg0mYYSkucbC",
+            "email": "tech@org.com",
+            "employeeId": "WvDRi2Hw9wBOGpp"
+          },
+          {
+            "id": "LjwEnf8vBXMCa1q",
+            "email": "cto@org.com",
+            "employeeId": "HYajD4pt5NNKPto"
+          },
+          {
+            "id": "uf6XtHjVqoJATnD",
+            "email": "vp_eng@org.com",
+            "employeeId": "97XBkbEiDZhlpg4"
+          }
+        ],
+        "location": "zoom.com/interview",
+        "creator": {
+          "id": "7hHbRoqaZrUWKsE",
+          "email": "hrbp@org.com",
+          "employeeId": "FCaMvYS2i6z7Idp"
+        },
+        "status": "COMPLETED"
+      }
+    ],
+    "rejection": {
+      "id": "xw0QKdLFrxFh70E",
+      "text": "Did not meet our standards",
+      "rejectedAt": "1970-01-01T00:00:00Z"
+    },
+    "offers": [
+      {
+        "id": "cGCo5ALjUDpjdmZ",
+        "status": "SIGNED",
+        "createdAt": "1970-01-01T00:00:00Z",
+        "sentAt": "1970-01-01T00:00:00Z",
+        "closedAt": "1970-01-01T00:00:00Z"
+      },
+      {
+        "id": "mkQKiEvrYDgCtaA",
+        "status": "DENIED",
+        "createdAt": "1970-01-01T00:00:00Z",
+        "sentAt": "1970-01-01T00:00:00Z",
+        "closedAt": "1970-01-01T00:00:00Z"
+      }
+    ],
+    "attachments": [
+      {
+        "type": "OFFER_LETTER",
+        "name": "Offer 1",
+        "link": "abc.com/offer1",
+        "createdAt": "1970-01-01T00:00:00Z"
+      },
+      {
+        "type": "COVER_LETTER",
+        "name": "Cover Letter",
+        "attachmentContent": {
+          "content" : "b29fTVJrRWU5dW1CU2NQNUlTYkFkc3dJdTpzbGFjaw==",
+          "encoding" : "BASE64"
+        },
+        "createdAt": "1970-01-01T00:00:00Z"
+      }
+    ]
+  }

@@ -13,8 +13,16 @@ df_transcript = df_transcript.drop('Unnamed: 0', axis = 1)
 
 # convert column names to a list
 cols_list = df_transcript.drop(index=0).columns.tolist()
-print(cols_list)
+#print(cols_list)
 
+stacked_df = df_transcript.stack()
+#print(stacked_df)
+
+unique_events = df_transcript['event'].unique().tolist()
+print(unique_events)
+
+unique_time = df_transcript['time'].unique().tolist()
+print(unique_time)
 
 
 

@@ -17,6 +17,7 @@ print(cols_list)
 
 #Check for missing values
 print('Customer data missing value statistics')
+print(str(df_profile.count()))
 missing_gender = df_profile['gender'].isna().sum()
 missing_income = df_profile['income'].isna().sum()
 print('Income data missing value statistics',missing_income)

@@ -1,0 +1,87 @@
+{
+    "info": {
+      "id": "CqrN2sN5U89GaYO",
+      "title": "SDE 1",
+      "description": "Junior Developer Backend",
+      "createdAt": "1970-01-01T00:00:00Z",
+      "updatedAt": "1970-01-01T00:00:00Z",
+      "closedAt": "1970-01-01T00:00:00Z",
+      "status": "OPEN",
+      "confidential": false,
+      "jobCodes": [
+        "7MBL9rEloOSbq1R",
+        "85LY1duVrbHYMk3"
+      ],
+      "infoUrl": "www.linktoJob.com",
+      "applyUrl": "www.linktoJob.com/apply"
+    },
+    "departments": [
+      {
+        "id": "CLtvELzXE1XzhaP",
+        "name": "Backend"
+      },
+      {
+        "id": "IDGpZLpmuNnJ8bG",
+        "name": "Engineering"
+      }
+    ],
+    "offices": [
+      {
+        "id": "AZ9Gl6M2IDZhrkw",
+        "name": "HQ",
+        "location": "Delhi, India"
+      }
+    ],
+    "hiringManagers": [
+      {
+        "id": "Gis4YYXT3CugIRZ",
+        "email": "hr@org.com",
+        "employeeId": "WWbJ35lotScHzpz"
+      },
+      {
+        "id": "bF6uNyYrQU0n4QK",
+        "email": "vphr@org.com",
+        "employeeId": "vGeFgYQkMKPTE9a"
+      }
+    ],
+    "recruiters": [
+      {
+        "id": "Gis4YYXT3CugIRZ",
+        "email": "recruiter@org.com",
+        "employeeId": "WWbJ35lotScHzpz"
+      }
+    ],
+    "stages": [
+      {
+        "id": "Q1do2hbFuBg2nrw",
+        "text": "Phone Screen"
+      },
+      {
+        "id": "IwwMkX3EkFfse",
+        "text": "Technical Test"
+      },
+      {
+        "id": "T3kfAZiN7Mgrs5",
+        "text": "Technical Screen"
+      },
+      {
+        "id": "8zTpCce7hkfde3",
+        "text": "Culture Fit"
+      }
+    ],
+    "rawValues": {
+      "jobInfo": {
+        "status": "open",
+        "descriptions": [
+          {
+            "id": "123",
+            "description": "Job Description in Short"
+          },
+           {
+            "id": "124",
+            "description": "Job Description in Detail"
+          }
+        ]
+      }
+    }
+  }
