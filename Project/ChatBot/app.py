@@ -26,7 +26,7 @@ oauth.register(
 )
 
 # Load responses from JSON file
-with open(current_dir + '/ChatBot/responses.json', 'r') as file:
+with open(current_dir + '/Project/ChatBot/responses.json', 'r') as file:
     responses = json.load(file)
 
 def get_response(user_input):
