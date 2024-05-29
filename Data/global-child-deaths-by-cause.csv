@@ -1,0 +1,572 @@
+Entity,Code,Year,Deaths,Continent
+Abkhazia,OWID_ABK,2015,,Asia
+Acute glomerulonephritis,,1990,1615,
+Acute glomerulonephritis,,2019,263,
+Acute hepatitis A,,1990,38021,
+Acute hepatitis A,,2019,7746,
+Acute hepatitis B,,1990,8841,
+Acute hepatitis B,,2019,3628,
+Acute hepatitis C,,1990,2340,
+Acute hepatitis C,,2019,627,
+Acute hepatitis E,,1990,981,
+Acute hepatitis E,,2019,429,
+Acute lymphoid leukemia,,1990,9554,
+Acute lymphoid leukemia,,2019,5912,
+Acute myeloid leukemia,,1990,4321,
+Acute myeloid leukemia,,2019,3591,
+Adverse effects of medical treatment,,1990,24284,
+Adverse effects of medical treatment,,2019,10530,
+Afghanistan,AFG,2015,,Asia
+African trypanosomiasis,,1990,776,
+African trypanosomiasis,,2019,55,
+Akrotiri and Dhekelia,OWID_AKD,2015,,Asia
+Aland Islands,ALA,2015,,Europe
+Albania,ALB,2015,,Europe
+Algeria,DZA,2015,,Africa
+American Samoa,ASM,2015,,Oceania
+Andorra,AND,2015,,Europe
+Angola,AGO,2015,,Africa
+Anguilla,AIA,2015,,North America
+Antarctica,ATA,2015,,Antarctica
+Antigua and Barbuda,ATG,2015,,North America
+Appendicitis,,1990,4236,
+Appendicitis,,2019,1161,
+Argentina,ARG,2015,,South America
+Armenia,ARM,2015,,Asia
+Aruba,ABW,2015,,North America
+Ascariasis,,1990,6089,
+Ascariasis,,2019,1424,
+Asthma,,1990,20437,
+Asthma,,2019,6102,
+Australia,AUS,2015,,Oceania
+Austria,AUT,2015,,Europe
+Austria-Hungary,OWID_AUH,2015,,Europe
+Azerbaijan,AZE,2015,,Asia
+Baden,OWID_BAD,2015,,Europe
+Bahamas,BHS,2015,,North America
+Bahrain,BHR,2015,,Asia
+Bangladesh,BGD,2015,,Asia
+Barbados,BRB,2015,,North America
+Bavaria,OWID_BAV,2015,,Europe
+Belarus,BLR,2015,,Europe
+Belgium,BEL,2015,,Europe
+Belize,BLZ,2015,,North America
+Benin,BEN,2015,,Africa
+Bermuda,BMU,2015,,North America
+Bhutan,BTN,2015,,Asia
+Bolivia,BOL,2015,,South America
+Bonaire Sint Eustatius and Saba,BES,2015,,North America
+Bosnia and Herzegovina,BIH,2015,,Europe
+Botswana,BWA,2015,,Africa
+Bouvet Island,BVT,2015,,Antarctica
+Brain and central nervous system cancer,,1990,13510,
+Brain and central nervous system cancer,,2019,8530,
+Brazil,BRA,2015,,South America
+British Indian Ocean Territory,IOT,2015,,Asia
+British Virgin Islands,VGB,2015,,North America
+Brunei,BRN,2015,,Asia
+Bulgaria,BGR,2015,,Europe
+Burkina Faso,BFA,2015,,Africa
+Burundi,BDI,2015,,Africa
+Cambodia,KHM,2015,,Asia
+Cameroon,CMR,2015,,Africa
+Canada,CAN,2015,,North America
+Cape Verde,CPV,2015,,Africa
+Cayman Islands,CYM,2015,,North America
+Cellulitis,,1990,1029,
+Cellulitis,,2019,354,
+Central African Republic,CAF,2015,,Africa
+Chad,TCD,2015,,Africa
+Chagas disease,,1990,8,
+Chagas disease,,2019,2,
+Channel Islands,OWID_CIS,2015,,Europe
+Chile,CHL,2015,,South America
+China,CHN,2015,,Asia
+Christmas Island,CXR,2015,,Asia
+Chronic kidney disease due to diabetes mellitus type 1,,1990,144,
+Chronic kidney disease due to diabetes mellitus type 1,,2019,61,
+Chronic kidney disease due to glomerulonephritis,,1990,4921,
+Chronic kidney disease due to glomerulonephritis,,2019,2824,
+Chronic kidney disease due to other and unspecified causes,,1990,12982,
+Chronic kidney disease due to other and unspecified causes,,2019,5943,
+Chronic myeloid leukemia,,1990,4530,
+Chronic myeloid leukemia,,2019,1317,
+Chronic obstructive pulmonary disease,,1990,3923,
+Chronic obstructive pulmonary disease,,2019,1123,
+Cirrhosis and other chronic liver diseases due to hepatitis B,,1990,125,
+Cirrhosis and other chronic liver diseases due to hepatitis B,,2019,61,
+Cirrhosis and other chronic liver diseases due to hepatitis C,,1990,119,
+Cirrhosis and other chronic liver diseases due to hepatitis C,,2019,54,
+Cirrhosis and other chronic liver diseases due to other causes,,1990,15672,
+Cirrhosis and other chronic liver diseases due to other causes,,2019,7240,
+Cocos Islands,CCK,2015,,Asia
+Colombia,COL,2015,,South America
+Comoros,COM,2015,,Africa
+Conflict and terrorism,,1990,18398,
+Conflict and terrorism,,2019,12708,
+Congenital heart anomalies,,1990,330302,
+Congenital heart anomalies,,2019,174442,
+Congenital musculoskeletal and limb anomalies,,1990,12749,
+Congenital musculoskeletal and limb anomalies,,2019,9374,
+Congo,COG,2015,,Africa
+Cook Islands,COK,2015,,Oceania
+Costa Rica,CRI,2015,,North America
+Cote d'Ivoire,CIV,2015,,Africa
+Croatia,HRV,2015,,Europe
+Cuba,CUB,2015,,North America
+Curacao,CUW,2015,,North America
+Cyclist road injuries,,1990,3054,
+Cyclist road injuries,,2019,1097,
+Cyprus,CYP,2015,,Europe
+Cystic echinococcosis,,1990,796,
+Cystic echinococcosis,,2019,120,
+Cysticercosis,,1990,48,
+Cysticercosis,,2019,16,
+Czechia,CZE,2015,,Europe
+Czechoslovakia,OWID_CZS,2015,,Europe
+Decubitus ulcer,,1990,17,
+Decubitus ulcer,,2019,8,
+Democratic Republic of Congo,COD,2015,,Africa
+Dengue,,1990,14872,
+Dengue,,2019,6655,
+Denmark,DNK,2015,,Europe
+Diabetes mellitus type 1,,1990,3859,
+Diabetes mellitus type 1,,2019,2706,
+Diarrheal diseases,,1990,1649581,
+Diarrheal diseases,,2019,500664,
+Digestive congenital anomalies,,1990,77288,
+Digestive congenital anomalies,,2019,45690,
+Diphtheria,,1990,15394,
+Diphtheria,,2019,3646,
+Djibouti,DJI,2015,,Africa
+Dominica,DMA,2015,,North America
+Dominican Republic,DOM,2015,,North America
+Down syndrome,,1990,21507,
+Down syndrome,,2019,14244,
+Drowning,,1990,184096,
+Drowning,,2019,36507,
+Drug-susceptible tuberculosis,,1990,207627,
+Drug-susceptible tuberculosis,,2019,45877,
+East Germany,OWID_GDR,2015,,Europe
+East Timor,TLS,2015,,Asia
+Ebola,,1990,0,
+Ebola,,2019,323,
+Ecuador,ECU,2015,,South America
+Egypt,EGY,2015,,Africa
+El Salvador,SLV,2015,,North America
+Encephalitis,,1990,63089,
+Encephalitis,,2019,16854,
+Endocarditis,,1990,3578,
+Endocarditis,,2019,1691,
+"Endocrine, metabolic, blood, and immune disorders",,1990,18950,
+"Endocrine, metabolic, blood, and immune disorders",,2019,12483,
+Environmental heat and cold exposure,,1990,6010,
+Environmental heat and cold exposure,,2019,1802,
+Equatorial Guinea,GNQ,2015,,Africa
+Eritrea,ERI,2015,,Africa
+Estonia,EST,2015,,Europe
+Eswatini,SWZ,2015,,Africa
+Ethiopia,ETH,2015,,Africa
+Ethiopia (former),OWID_ERE,2015,,Africa
+Executions and police conflict,,1990,136,
+Executions and police conflict,,2019,218,
+Exposure to forces of nature,,1990,10024,
+Exposure to forces of nature,,2019,558,
+Falkland Islands,FLK,2015,,South America
+Falls,,1990,34510,
+Falls,,2019,15834,
+Faroe Islands,FRO,2015,,Europe
+Fiji,FJI,2015,,Oceania
+Finland,FIN,2015,,Europe
+"Fire, heat, and hot substances",,1990,35583,
+"Fire, heat, and hot substances",,2019,14033,
+Foreign body in other body part,,1990,10904,
+Foreign body in other body part,,2019,1420,
+France,FRA,2015,,Europe
+French Guiana,GUF,2015,,South America
+French Polynesia,PYF,2015,,Oceania
+French Southern Territories,ATF,2015,,Antarctica
+G6PD deficiency,,1990,620,
+G6PD deficiency,,2019,367,
+Gabon,GAB,2015,,Africa
+Gallbladder and biliary diseases,,1990,1360,
+Gallbladder and biliary diseases,,2019,568,
+Gambia,GMB,2015,,Africa
+Gastritis and duodenitis,,1990,815,
+Gastritis and duodenitis,,2019,452,
+Georgia,GEO,2015,,Asia
+Germany,DEU,2015,,Europe
+Ghana,GHA,2015,,Africa
+Gibraltar,GIB,2015,,Europe
+Greece,GRC,2015,,Europe
+Greenland,GRL,2015,,North America
+Grenada,GRD,2015,,North America
+Guadeloupe,GLP,2015,,North America
+Guam,GUM,2015,,Oceania
+Guatemala,GTM,2015,,North America
+Guernsey,GGY,2015,,Europe
+Guinea,GIN,2015,,Africa
+Guinea-Bissau,GNB,2015,,Africa
+Guyana,GUY,2015,,South America
+HIV/AIDS - Drug-susceptible Tuberculosis,,1990,29193,
+HIV/AIDS - Drug-susceptible Tuberculosis,,2019,12383,
+HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,,1990,141,
+HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,,2019,1452,
+HIV/AIDS resulting in other diseases,,1990,44079,
+HIV/AIDS resulting in other diseases,,2019,35060,
+Haiti,HTI,2015,,North America
+Hanover,OWID_HAN,2015,,Europe
+Heard Island and McDonald Islands,HMD,2015,,Antarctica
+Hemolytic disease and other neonatal jaundice,,1990,128119,
+Hemolytic disease and other neonatal jaundice,,2019,52742,
+Hesse Electoral,OWID_HSE,2015,,Europe
+Hesse Grand Ducal,OWID_HSG,2015,,Europe
+Hodgkin lymphoma,,1990,412,
+Hodgkin lymphoma,,2019,150,
+Honduras,HND,2015,,North America
+Hong Kong,HKG,2015,,Asia
+Hungary,HUN,2015,,Europe
+Iceland,ISL,2015,,Europe
+Idiopathic epilepsy,,1990,19389,
+Idiopathic epilepsy,,2019,8242,
+India,IND,2015,,Asia
+Indonesia,IDN,2015,,Asia
+Inflammatory bowel disease,,1990,2094,
+Inflammatory bowel disease,,2019,717,
+"Inguinal, femoral, and abdominal hernia",,1990,7774,
+"Inguinal, femoral, and abdominal hernia",,2019,2822,
+Interstitial lung disease and pulmonary sarcoidosis,,1990,415,
+Interstitial lung disease and pulmonary sarcoidosis,,2019,279,
+Intracerebral hemorrhage,,1990,20712,
+Intracerebral hemorrhage,,2019,5806,
+Invasive Non-typhoidal Salmonella (iNTS),,1990,29986,
+Invasive Non-typhoidal Salmonella (iNTS),,2019,49869,
+Iran,IRN,2015,,Asia
+Iraq,IRQ,2015,,Asia
+Ireland,IRL,2015,,Europe
+Ischemic stroke,,1990,4581,
+Ischemic stroke,,2019,1554,
+Isle of Man,IMN,2015,,Europe
+Israel,ISR,2015,,Asia
+Italy,ITA,2015,,Europe
+Jamaica,JAM,2015,,North America
+Japan,JPN,2015,,Asia
+Jersey,JEY,2015,,Europe
+Jordan,JOR,2015,,Asia
+Kazakhstan,KAZ,2015,,Asia
+Kenya,KEN,2015,,Africa
+Kidney cancer,,1990,2281,
+Kidney cancer,,2019,1755,
+Kiribati,KIR,2015,,Oceania
+Korea (former),OWID_KRU,2015,,Asia
+Kosovo,OWID_KOS,2015,,Europe
+Kuwait,KWT,2015,,Asia
+Kyrgyzstan,KGZ,2015,,Asia
+Laos,LAO,2015,,Asia
+Latvia,LVA,2015,,Europe
+Lebanon,LBN,2015,,Asia
+Lesotho,LSO,2015,,Africa
+Liberia,LBR,2015,,Africa
+Libya,LBY,2015,,Africa
+Liechtenstein,LIE,2015,,Europe
+Lithuania,LTU,2015,,Europe
+Liver cancer due to other causes,,1990,3083,
+Liver cancer due to other causes,,2019,1731,
+Lower respiratory infections,,1990,2209128,
+Lower respiratory infections,,2019,671928,
+Luxembourg,LUX,2015,,Europe
+Macao,MAC,2015,,Asia
+Madagascar,MDG,2015,,Africa
+Malaria,,1990,553826,
+Malaria,,2019,356363,
+Malawi,MWI,2015,,Africa
+Malaysia,MYS,2015,,Asia
+Maldives,MDV,2015,,Asia
+Mali,MLI,2015,,Africa
+Malignant skin melanoma,,1990,186,
+Malignant skin melanoma,,2019,141,
+Malta,MLT,2015,,Europe
+Marshall Islands,MHL,2015,,Oceania
+Martinique,MTQ,2015,,North America
+Mauritania,MRT,2015,,Africa
+Mauritius,MUS,2015,,Africa
+Mayotte,MYT,2015,,Africa
+Measles,,1990,704288,
+Measles,,2019,69854,
+Mecklenburg Schwerin,OWID_MEC,2015,,Europe
+Meningitis,,1990,284149,
+Meningitis,,2019,112205,
+Mexico,MEX,2015,,North America
+Micronesia (country),FSM,2015,,Oceania
+Modena,OWID_MOD,2015,,Europe
+Moldova,MDA,2015,,Europe
+Monaco,MCO,2015,,Europe
+Mongolia,MNG,2015,,Asia
+Montenegro,MNE,2015,,Europe
+Montserrat,MSR,2015,,North America
+Morocco,MAR,2015,,Africa
+Motor neuron disease,,1990,1839,
+Motor neuron disease,,2019,611,
+Motor vehicle road injuries,,1990,34273,
+Motor vehicle road injuries,,2019,16061,
+Motorcyclist road injuries,,1990,9095,
+Motorcyclist road injuries,,2019,3161,
+Mozambique,MOZ,2015,,Africa
+Multidrug-resistant tuberculosis without extensive drug resistance,,1990,1935,
+Multidrug-resistant tuberculosis without extensive drug resistance,,2019,4109,
+Myanmar,MMR,2015,,Asia
+"Myelodysplastic, myeloproliferative, and other hematopoietic neoplasms",,1990,354,
+"Myelodysplastic, myeloproliferative, and other hematopoietic neoplasms",,2019,253,
+Myocarditis,,1990,4975,
+Myocarditis,,2019,1920,
+Nagorno-Karabakh,OWID_NAG,2015,,Asia
+Namibia,NAM,2015,,Africa
+Nauru,NRU,2015,,Oceania
+Neonatal encephalopathy due to birth asphyxia and trauma,,1990,808681,
+Neonatal encephalopathy due to birth asphyxia and trauma,,2019,566976,
+Neonatal preterm birth,,1990,1269043,
+Neonatal preterm birth,,2019,663520,
+Neonatal sepsis and other neonatal infections,,1990,260150,
+Neonatal sepsis and other neonatal infections,,2019,226517,
+Nepal,NPL,2015,,Asia
+Netherlands,NLD,2015,,Europe
+Netherlands Antilles,ANT,2015,,North America
+Neural tube defects,,1990,158958,
+Neural tube defects,,2019,81788,
+New Caledonia,NCL,2015,,Oceania
+New Zealand,NZL,2015,,Oceania
+Nicaragua,NIC,2015,,North America
+Niger,NER,2015,,Africa
+Nigeria,NGA,2015,,Africa
+Niue,NIU,2015,,Oceania
+Non-Hodgkin lymphoma,,1990,3547,
+Non-Hodgkin lymphoma,,2019,1920,
+Non-venomous animal contact,,1990,5457,
+Non-venomous animal contact,,2019,2922,
+Norfolk Island,NFK,2015,,Oceania
+North Korea,PRK,2015,,Asia
+North Macedonia,MKD,2015,,Europe
+Northern Cyprus,OWID_CYN,2015,,Asia
+Northern Mariana Islands,MNP,2015,,Oceania
+Norway,NOR,2015,,Europe
+Oman,OMN,2015,,Asia
+Orofacial clefts,,1990,11778,
+Orofacial clefts,,2019,2769,
+Other cardiomyopathy,,1990,9200,
+Other cardiomyopathy,,2019,5523,
+Other cardiovascular and circulatory diseases,,1990,17322,
+Other cardiovascular and circulatory diseases,,2019,7312,
+Other chromosomal abnormalities,,1990,16732,
+Other chromosomal abnormalities,,2019,18308,
+Other chronic respiratory diseases,,1990,2727,
+Other chronic respiratory diseases,,2019,1686,
+Other congenital birth defects,,1990,191260,
+Other congenital birth defects,,2019,117979,
+Other digestive diseases,,1990,6435,
+Other digestive diseases,,2019,2018,
+Other exposure to mechanical forces,,1990,17441,
+Other exposure to mechanical forces,,2019,9582,
+Other hemoglobinopathies and hemolytic anemias,,1990,447,
+Other hemoglobinopathies and hemolytic anemias,,2019,74,
+Other intestinal infectious diseases,,1990,2933,
+Other intestinal infectious diseases,,2019,854,
+Other leukemia,,1990,22272,
+Other leukemia,,2019,5531,
+Other malignant neoplasms,,1990,20809,
+Other malignant neoplasms,,2019,13297,
+Other neglected tropical diseases,,1990,6473,
+Other neglected tropical diseases,,2019,6511,
+Other neonatal disorders,,1990,539952,
+Other neonatal disorders,,2019,372684,
+Other neurological disorders,,1990,6325,
+Other neurological disorders,,2019,3750,
+Other nutritional deficiencies,,1990,20779,
+Other nutritional deficiencies,,2019,3564,
+Other road injuries,,1990,1190,
+Other road injuries,,2019,448,
+Other skin and subcutaneous diseases,,1990,141,
+Other skin and subcutaneous diseases,,2019,84,
+Other transport injuries,,1990,7360,
+Other transport injuries,,2019,2373,
+Other unintentional injuries,,1990,18953,
+Other unintentional injuries,,2019,6602,
+Other unspecified infectious diseases,,1990,27179,
+Other unspecified infectious diseases,,2019,16888,
+Other urinary diseases,,1990,2743,
+Other urinary diseases,,2019,1770,
+Otitis media,,1990,1695,
+Otitis media,,2019,281,
+Pakistan,PAK,2015,,Asia
+Palau,PLW,2015,,Oceania
+Palestine,PSE,2015,,Asia
+Panama,PAN,2015,,North America
+Pancreatitis,,1990,350,
+Pancreatitis,,2019,221,
+Papua New Guinea,PNG,2015,,Oceania
+Paraguay,PRY,2015,,South America
+Paralytic ileus and intestinal obstruction,,1990,35863,
+Paralytic ileus and intestinal obstruction,,2019,18119,
+Paratyphoid fever,,1990,5034,
+Paratyphoid fever,,2019,2727,
+Parma,OWID_PMA,2015,,Europe
+Pedestrian road injuries,,1990,68011,
+Pedestrian road injuries,,2019,17693,
+Peptic ulcer disease,,1990,2665,
+Peptic ulcer disease,,2019,1063,
+Peru,PER,2015,,South America
+Philippines,PHL,2015,,Asia
+Physical violence by firearm,,1990,2479,
+Physical violence by firearm,,2019,2347,
+Physical violence by other means,,1990,15888,
+Physical violence by other means,,2019,8107,
+Physical violence by sharp object,,1990,2856,
+Physical violence by sharp object,,2019,1888,
+Pitcairn,PCN,2015,,Oceania
+Poisoning by carbon monoxide,,1990,5935,
+Poisoning by carbon monoxide,,2019,2132,
+Poisoning by other means,,1990,21654,
+Poisoning by other means,,2019,8447,
+Poland,POL,2015,,Europe
+Portugal,PRT,2015,,Europe
+Protein-energy malnutrition,,1990,503324,
+Protein-energy malnutrition,,2019,93739,
+Puerto Rico,PRI,2015,,North America
+Pulmonary aspiration and foreign body in airway,,1990,62080,
+Pulmonary aspiration and foreign body in airway,,2019,23916,
+Pyoderma,,1990,5164,
+Pyoderma,,2019,3274,
+Qatar,QAT,2015,,Asia
+Rabies,,1990,6052,
+Rabies,,2019,1788,
+Republic of Vietnam,OWID_RVN,2015,,Asia
+Reunion,REU,2015,,Africa
+Rheumatic heart disease,,1990,6716,
+Rheumatic heart disease,,2019,1655,
+Romania,ROU,2015,,Europe
+Russia,RUS,2015,,Europe
+Rwanda,RWA,2015,,Africa
+Saint Barthelemy,BLM,2015,,North America
+Saint Helena,SHN,2015,,Africa
+Saint Kitts and Nevis,KNA,2015,,North America
+Saint Lucia,LCA,2015,,North America
+Saint Martin (French part),MAF,2015,,North America
+Saint Pierre and Miquelon,SPM,2015,,North America
+Saint Vincent and the Grenadines,VCT,2015,,North America
+Samoa,WSM,2015,,Oceania
+San Marino,SMR,2015,,Europe
+Sao Tome and Principe,STP,2015,,Africa
+Saudi Arabia,SAU,2015,,Asia
+Saxony,OWID_SAX,2015,,Europe
+Schistosomiasis,,1990,375,
+Schistosomiasis,,2019,155,
+Senegal,SEN,2015,,Africa
+Serbia,SRB,2015,,Europe
+Serbia and Montenegro,OWID_SRM,2015,,Europe
+Serbia excluding Kosovo,OWID_SEK,2015,,Europe
+Seychelles,SYC,2015,,Africa
+Sickle cell disorders,,1990,20212,
+Sickle cell disorders,,2019,18950,
+Sierra Leone,SLE,2015,,Africa
+Singapore,SGP,2015,,Asia
+Sint Maarten (Dutch part),SXM,2015,,North America
+Slovakia,SVK,2015,,Europe
+Slovenia,SVN,2015,,Europe
+Solomon Islands,SLB,2015,,Oceania
+Somalia,SOM,2015,,Africa
+Somaliland,OWID_SML,2015,,Africa
+South Africa,ZAF,2015,,Africa
+South Georgia and the South Sandwich Islands,SGS,2015,,South America
+South Korea,KOR,2015,,Asia
+South Ossetia,OWID_SOS,2015,,Asia
+South Sudan,SSD,2015,,Africa
+Spain,ESP,2015,,Europe
+Sri Lanka,LKA,2015,,Asia
+Subarachnoid hemorrhage,,1990,9520,
+Subarachnoid hemorrhage,,2019,2237,
+Sudan,SDN,2015,,Africa
+Sudden infant death syndrome,,1990,55995,
+Sudden infant death syndrome,,2019,27685,
+Suriname,SUR,2015,,South America
+Svalbard and Jan Mayen,SJM,2015,,Europe
+Sweden,SWE,2015,,Europe
+Switzerland,CHE,2015,,Europe
+Syphilis,,1990,97389,
+Syphilis,,2019,81428,
+Syria,SYR,2015,,Asia
+Taiwan,TWN,2015,,Asia
+Tajikistan,TJK,2015,,Asia
+Tanzania,TZA,2015,,Africa
+Testicular cancer,,1990,339,
+Testicular cancer,,2019,323,
+Tetanus,,1990,214552,
+Tetanus,,2019,18293,
+Thailand,THA,2015,,Asia
+Thalassemias,,1990,9550,
+Thalassemias,,2019,3780,
+Togo,TGO,2015,,Africa
+Tokelau,TKL,2015,,Oceania
+Tonga,TON,2015,,Oceania
+Total burden related to hepatitis B,,1990,8966,
+Total burden related to hepatitis B,,2019,3689,
+Total burden related to hepatitis C,,1990,2459,
+Total burden related to hepatitis C,,2019,681,
+Total cancers,,1990,84843,
+Total cancers,,2019,44199,
+Transnistria,OWID_TRS,2015,,Europe
+Trinidad and Tobago,TTO,2015,,North America
+Tunisia,TUN,2015,,Africa
+Turkey,TUR,2015,,Asia
+Turkmenistan,TKM,2015,,Asia
+Turks and Caicos Islands,TCA,2015,,North America
+Tuscany,OWID_TUS,2015,,Europe
+Tuvalu,TUV,2015,,Oceania
+Two Sicilies,OWID_SIC,2015,,Europe
+Typhoid fever,,1990,33998,
+Typhoid fever,,2019,18934,
+USSR,OWID_USS,2015,,Europe
+Uganda,UGA,2015,,Africa
+Ukraine,UKR,2015,,Europe
+Unintentional firearm injuries,,1990,4097,
+Unintentional firearm injuries,,2019,1922,
+United Arab Emirates,ARE,2015,,Asia
+United Kingdom,GBR,2015,,Europe
+United States,USA,2015,,North America
+United States Minor Outlying Islands,UMI,2015,,Oceania
+United States Virgin Islands,VIR,2015,,North America
+Upper respiratory infections,,1990,20396,
+Upper respiratory infections,,2019,4011,
+Urinary tract infections and interstitial nephritis,,1990,6205,
+Urinary tract infections and interstitial nephritis,,2019,3318,
+Urogenital congenital anomalies,,1990,13843,
+Urogenital congenital anomalies,,2019,9043,
+Urolithiasis,,1990,133,
+Urolithiasis,,2019,14,
+Uruguay,URY,2015,,South America
+Uzbekistan,UZB,2015,,Asia
+Vanuatu,VUT,2015,,Oceania
+Varicella and herpes zoster,,1990,8421,
+Varicella and herpes zoster,,2019,5219,
+Vascular intestinal disorders,,1990,443,
+Vascular intestinal disorders,,2019,298,
+Vatican,VAT,2015,,Europe
+Venezuela,VEN,2015,,South America
+Venomous animal contact,,1990,18928,
+Venomous animal contact,,2019,6722,
+Vietnam,VNM,2015,,Asia
+Visceral leishmaniasis,,1990,23218,
+Visceral leishmaniasis,,2019,1556,
+Wallis and Futuna,WLF,2015,,Oceania
+West Germany,OWID_GFR,2015,,Europe
+Western Sahara,ESH,2015,,Africa
+Whooping cough,,1990,240021,
+Whooping cough,,2019,107836,
+Wuerttemburg,OWID_WRT,2015,,Europe
+Yellow fever,,1990,1578,
+Yellow fever,,2019,492,
+Yemen,YEM,2015,,Asia
+Yemen Arab Republic,OWID_YAR,2015,,Asia
+Yemen People's Republic,OWID_YPR,2015,,Asia
+Yugoslavia,OWID_YGS,2015,,Europe
+Zambia,ZMB,2015,,Africa
+Zanzibar,OWID_ZAN,2015,,Africa
+Zimbabwe,ZWE,2015,,Africa

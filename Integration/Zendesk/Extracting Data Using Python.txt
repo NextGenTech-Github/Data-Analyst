@@ -1,0 +1,20 @@
+
+Zendesk Data Model Overview
+
+Tickets: In Zendesk, a "ticket" represents a customer support case. Each ticket includes various fields such as:
+
+id (integer): Unique identifier for the ticket.
+subject (string): The subject or title of the ticket.
+description (string): A detailed description of the issue.
+status (string): The current status of the ticket (e.g., open, closed, pending).
+created_at (datetime): When the ticket was created.
+updated_at (datetime): Last update time of the ticket.
+requester_id (integer): Identifier for the user who requested the support.
+assignee_id (integer): Identifier for the agent assigned to the ticket.
+Comments (also known as "ticket audits" or "ticket comments"): Each ticket can have multiple comments which are the interactions within the ticket. Comments include:
+
+id (integer): Unique identifier for the comment.
+ticket_id (integer): The ticket id to which the comment belongs.
+author_id (integer): The user id of the comment author.
+body (string): The text content of the comment.
+created_at (datetime): When the comment was created.

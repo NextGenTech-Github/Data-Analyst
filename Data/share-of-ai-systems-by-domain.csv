@@ -1,0 +1,273 @@
+Entity,Code,Year,Cumulative number of AI systems by domain
+Biology,,1990,0
+Biology,,1991,0
+Biology,,1992,0
+Biology,,1993,0
+Biology,,1994,0
+Biology,,1995,0
+Biology,,1996,0
+Biology,,1997,0
+Biology,,1998,0
+Biology,,1999,0
+Biology,,2000,0
+Biology,,2001,0
+Biology,,2002,0
+Biology,,2003,0
+Biology,,2004,0
+Biology,,2005,1
+Biology,,2006,1
+Biology,,2007,1
+Biology,,2008,1
+Biology,,2009,1
+Biology,,2010,1
+Biology,,2011,1
+Biology,,2012,1
+Biology,,2013,1
+Biology,,2014,1
+Biology,,2015,1
+Biology,,2016,2
+Biology,,2017,2
+Biology,,2018,2
+Biology,,2019,3
+Biology,,2020,12
+Biology,,2021,20
+Biology,,2022,36
+Biology,,2023,45
+Games,,1990,4
+Games,,1991,4
+Games,,1992,5
+Games,,1993,5
+Games,,1994,5
+Games,,1995,5
+Games,,1996,5
+Games,,1997,5
+Games,,1998,5
+Games,,1999,5
+Games,,2000,5
+Games,,2001,5
+Games,,2002,5
+Games,,2003,5
+Games,,2004,5
+Games,,2005,5
+Games,,2006,5
+Games,,2007,5
+Games,,2008,5
+Games,,2009,5
+Games,,2010,5
+Games,,2011,5
+Games,,2012,5
+Games,,2013,6
+Games,,2014,8
+Games,,2015,11
+Games,,2016,13
+Games,,2017,21
+Games,,2018,25
+Games,,2019,32
+Games,,2020,35
+Games,,2021,39
+Games,,2022,42
+Games,,2023,42
+Image generation,,1990,0
+Image generation,,1991,0
+Image generation,,1992,0
+Image generation,,1993,0
+Image generation,,1994,0
+Image generation,,1995,0
+Image generation,,1996,0
+Image generation,,1997,0
+Image generation,,1998,0
+Image generation,,1999,0
+Image generation,,2000,0
+Image generation,,2001,0
+Image generation,,2002,0
+Image generation,,2003,0
+Image generation,,2004,0
+Image generation,,2005,0
+Image generation,,2006,0
+Image generation,,2007,0
+Image generation,,2008,0
+Image generation,,2009,0
+Image generation,,2010,0
+Image generation,,2011,0
+Image generation,,2012,0
+Image generation,,2013,0
+Image generation,,2014,1
+Image generation,,2015,2
+Image generation,,2016,2
+Image generation,,2017,3
+Image generation,,2018,5
+Image generation,,2019,6
+Image generation,,2020,7
+Image generation,,2021,13
+Image generation,,2022,23
+Image generation,,2023,30
+Language,,1990,2
+Language,,1991,3
+Language,,1992,3
+Language,,1993,4
+Language,,1994,4
+Language,,1995,5
+Language,,1996,6
+Language,,1997,7
+Language,,1998,7
+Language,,1999,9
+Language,,2000,10
+Language,,2001,11
+Language,,2002,14
+Language,,2003,17
+Language,,2004,17
+Language,,2005,18
+Language,,2006,18
+Language,,2007,19
+Language,,2008,21
+Language,,2009,21
+Language,,2010,23
+Language,,2011,27
+Language,,2012,31
+Language,,2013,39
+Language,,2014,47
+Language,,2015,53
+Language,,2016,67
+Language,,2017,85
+Language,,2018,114
+Language,,2019,154
+Language,,2020,182
+Language,,2021,214
+Language,,2022,251
+Language,,2023,294
+Multimodal,,1990,0
+Multimodal,,1991,0
+Multimodal,,1992,0
+Multimodal,,1993,0
+Multimodal,,1994,0
+Multimodal,,1995,0
+Multimodal,,1996,0
+Multimodal,,1997,0
+Multimodal,,1998,0
+Multimodal,,1999,0
+Multimodal,,2000,0
+Multimodal,,2001,0
+Multimodal,,2002,0
+Multimodal,,2003,0
+Multimodal,,2004,0
+Multimodal,,2005,0
+Multimodal,,2006,0
+Multimodal,,2007,0
+Multimodal,,2008,0
+Multimodal,,2009,0
+Multimodal,,2010,0
+Multimodal,,2011,0
+Multimodal,,2012,0
+Multimodal,,2013,0
+Multimodal,,2014,0
+Multimodal,,2015,0
+Multimodal,,2016,0
+Multimodal,,2017,0
+Multimodal,,2018,0
+Multimodal,,2019,0
+Multimodal,,2020,1
+Multimodal,,2021,8
+Multimodal,,2022,14
+Multimodal,,2023,31
+Other,,1990,23
+Other,,1991,23
+Other,,1992,24
+Other,,1993,24
+Other,,1994,25
+Other,,1995,26
+Other,,1996,26
+Other,,1997,26
+Other,,1998,27
+Other,,1999,27
+Other,,2000,28
+Other,,2001,29
+Other,,2002,30
+Other,,2003,30
+Other,,2004,31
+Other,,2005,31
+Other,,2006,35
+Other,,2007,39
+Other,,2008,43
+Other,,2009,53
+Other,,2010,56
+Other,,2011,59
+Other,,2012,60
+Other,,2013,61
+Other,,2014,66
+Other,,2015,71
+Other,,2016,80
+Other,,2017,87
+Other,,2018,91
+Other,,2019,100
+Other,,2020,105
+Other,,2021,109
+Other,,2022,118
+Other,,2023,146
+Speech,,1990,5
+Speech,,1991,5
+Speech,,1992,6
+Speech,,1993,6
+Speech,,1994,6
+Speech,,1995,6
+Speech,,1996,6
+Speech,,1997,7
+Speech,,1998,7
+Speech,,1999,7
+Speech,,2000,7
+Speech,,2001,7
+Speech,,2002,7
+Speech,,2003,7
+Speech,,2004,7
+Speech,,2005,8
+Speech,,2006,9
+Speech,,2007,9
+Speech,,2008,9
+Speech,,2009,9
+Speech,,2010,11
+Speech,,2011,11
+Speech,,2012,12
+Speech,,2013,14
+Speech,,2014,15
+Speech,,2015,17
+Speech,,2016,18
+Speech,,2017,19
+Speech,,2018,20
+Speech,,2019,21
+Speech,,2020,26
+Speech,,2021,28
+Speech,,2022,30
+Speech,,2023,31
+Vision,,1990,9
+Vision,,1991,9
+Vision,,1992,9
+Vision,,1993,9
+Vision,,1994,9
+Vision,,1995,10
+Vision,,1996,11
+Vision,,1997,13
+Vision,,1998,14
+Vision,,1999,15
+Vision,,2000,15
+Vision,,2001,16
+Vision,,2002,16
+Vision,,2003,19
+Vision,,2004,19
+Vision,,2005,21
+Vision,,2006,27
+Vision,,2007,29
+Vision,,2008,31
+Vision,,2009,33
+Vision,,2010,41
+Vision,,2011,43
+Vision,,2012,49
+Vision,,2013,58
+Vision,,2014,69
+Vision,,2015,79
+Vision,,2016,102
+Vision,,2017,125
+Vision,,2018,136
+Vision,,2019,151
+Vision,,2020,158
+Vision,,2021,171
+Vision,,2022,177
+Vision,,2023,181
